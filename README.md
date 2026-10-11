@@ -4,7 +4,6 @@ A simple single-page application built with React and Vite to manage and display
 
 ## Features
 
-- Built using React and Vite for fast development and hot module replacement (HMR).
 - Dynamically renders a structured list of todos using JavaScript arrays and the `.map()` method.
 
 ## Installation Instructions
