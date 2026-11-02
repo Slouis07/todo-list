@@ -10,6 +10,6 @@ function TodoList({ todoList }) {
       </ul>
     </>
   );
-} 
+}
 
 export default TodoList;
